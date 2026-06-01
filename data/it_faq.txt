@@ -1,0 +1,14 @@
+How can I reset my password?
+You can reset your password by clicking on "Forgot Password" on the login page.
+
+How do I connect to VPN?
+Install the VPN client and login using your company credentials.
+
+My laptop is slow. What should I do?
+Restart the laptop and close unused applications.
+
+Printer is not working.
+Check cable connection and reinstall printer drivers.
+
+How do I configure email on Outlook?
+Open Outlook → Add account → Enter company email credentials.
